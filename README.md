@@ -1,7 +1,7 @@
 # PPaint
  Paint program written in Processing.
 
-> PPaint v1.0\n
+> PPaint v1.0
 > Developers: Husanboy Qodirov & Hasanboy Qodirov
 > https://softromeda.weebly.com
 > Developed as final project for Computer Graphics 101
