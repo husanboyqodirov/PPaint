@@ -4,7 +4,7 @@
 > PPaint v1.0  
 > Developers: Husanboy Qodirov & Hasanboy Qodirov  
 > https://softromeda.weebly.com  
-> Developed as final project for Computer Graphics 101  
+> Developed as [final project](PPaint_Final_Project.pdf) for Computer Graphics 101  
 > Download presentaion file.  
 > Written in Processing 4.0b7  
 > https://processing.org
